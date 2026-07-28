@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Consultório Odonto Preview](./public/preview.png)
-
 ### Landing page institucional moderna para consultório odontológico
 
 Uma aplicação web desenvolvida para apresentar serviços odontológicos,
@@ -71,19 +69,6 @@ O projeto busca simular uma solução real entregue para um negócio, utilizando
 
 A aplicação foi estruturada utilizando uma arquitetura baseada em componentes, permitindo maior organização e facilidade de manutenção.
 
-Exemplo:
-src
-├── components
-│ ├── Header
-│ ├── Footer
-│ ├── Sections
-│
-├── assets
-├── pages
-├── styles
-└── main.tsx
-
-
 ---
 
 ## 🧠 Desafios enfrentados
@@ -139,10 +124,19 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/gabriel360p/demo-consultorio-odonto.git
+```
+Acesse a pasta:
+```
 cd demo-consultorio-odonto
+```
+Execute os comandos via terminal dentro da pasta do projeto:
+```
 npm install
 npm run dev
+```
+Acesse no navegador:
 http://localhost:5173
+
 
 👨‍💻 Autor
 
