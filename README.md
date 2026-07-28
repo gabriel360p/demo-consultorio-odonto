@@ -139,7 +139,7 @@ http://localhost:5173
 
 ---
 
-##👨‍💻 Autor
+**👨‍💻 Autor**
 
 Gabriel Costa
 
