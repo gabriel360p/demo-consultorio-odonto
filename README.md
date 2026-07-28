@@ -137,6 +137,7 @@ npm run dev
 Acesse no navegador:
 http://localhost:5173
 
+---
 
 👨‍💻 Autor
 
@@ -154,4 +155,4 @@ https://gabrielcosta-dev.vercel.app/
 
 ⭐ Se este projeto foi útil, considere deixar uma estrela no repositório.
 
-</div> ``
+</div> 
